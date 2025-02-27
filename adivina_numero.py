@@ -1,7 +1,7 @@
 import random
 
 print("\n🎯 ¡Bienvenido al Juego de Adivina el Número!")
-print("🔢 He elegido un número del 1 al 100, ¿Podrás adivinarlo?")
+print("🔢 He elegido un número del 1 al 100, ¿Podrás adivinarlo?\n")
 
 
 while True:
